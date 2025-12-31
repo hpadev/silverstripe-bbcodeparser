@@ -1,6 +1,6 @@
 {
     "name": "hpadev/silverstripe-bbcodeparser",
-    "description": "Abandoned moduled providing BBCodeParser and TextParser to SS 4+. silverstripe-archive/silverstripe-bbcodeparser",
+    "description": "Abandoned moduled providing BBCodeParser and TextParser to SS 4+. Old name: silverstripe-archive/silverstripe-bbcodeparser",
     "type": "library",
     "require": {
         "silverstripe/framework": "^4.0"
